@@ -59,3 +59,11 @@ bbbbbbb .N/A (less than 15 years old)
 1..4209995 .$1 to $4209995 (Rounded and top-coded
 .components)
 """
+
+```bash
+pyenv virtualenv 3.8.11 income
+pyenv local income
+pip install matplotlib jupyter pandas statsmodels
+pip freeze > requirements.txt
+jupyter
+```
