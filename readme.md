@@ -9,13 +9,16 @@
 https://twitter.com/planarrowspace/status/1533092123142238215
 
 
- * [PUMS 2019 1-year data](https://www2.census.gov/programs-surveys/acs/data/pums/2019/1-Year/)
+ * [PUMS 2019 1-year data][]
      * There are CSV and "Unix" (really sas7bdat) formats.
      * There are "h" (housing unit) and "p" (person) record files.
      * There's a file per state.
      * So: "csv_hwv.zip" is the CSV format housing unit data file for
        West Virginia.
- * [PUMS 2019 data dictionary](https://www2.census.gov/programs-surveys/acs/tech_docs/pums/data_dict/PUMS_Data_Dictionary_2019.pdf)
+ * [PUMS 2019 data dictionary][]
+
+[PUMS 2019 1-year data]: https://www2.census.gov/programs-surveys/acs/data/pums/2019/1-Year/
+[PUMS 2019 data dictionary]: https://www2.census.gov/programs-surveys/acs/tech_docs/pums/data_dict/PUMS_Data_Dictionary_2019.pdf
 
 
 """
