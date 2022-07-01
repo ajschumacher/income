@@ -1,0 +1,34 @@
+category,lowest_code,greatest_code
+"Management, Business, Science, and Arts Occupations",0010,3550
+"Management, Business, and Financial Occupations",0010,0960
+"Management Occupations",0010,0440
+"Business and Financial Operations Occupations",0500,0960
+"Computer, Engineering, and Science Occupations",1005,1980
+"Computer and Mathematical Occupations",1005,1240
+"Architecture and Engineering Occupations",1305,1560
+"Life, Physical, and Social Science Occupations",1600,1980
+"Education, Legal, Community Service, Arts, and Media Occupations",2001,2970
+"Community and Social Service Occupations",2001,2060
+"Legal Occupations",2100,2180
+"Educational Instruction, and Library Occupations",2205,2555
+"Arts, Design, Entertainment, Sports, and Media Occupations",2600,2970
+"Healthcare Practitioners and Technical Occupations",3000,3550
+"Service Occupations",3601,4655
+"Healthcare Support Occupations",3601,3655
+"Protective Service Occupations",3700,3960
+"Food Preparation and Serving Related Occupations",4000,4160
+"Building and Grounds Cleaning and Maintenance Occupations",4200,4255
+"Personal Care and Service Occupations",4330,4655
+"Sales and Office Occupations",4700,5940
+"Sales and Related Occupations",4700,4965
+"Office and Administrative Support Occupations",5000,5940
+"Natural Resources, Construction, and Maintenance Occupations",6005,7640
+"Farming, Fishing, and Forestry Occupations",6005,6130
+"Construction and Extraction Occupations",6200,6950
+"Installation, Maintenance, and Repair Occupations",7000,7640
+"Production, Transportation, and Material Moving Occupations",7700,9760
+"Production Occupations",7700,8990
+"Transportation and Material Moving Occupations",9005,9760
+"Transportation Occupations",9005,9430
+"Material Moving Occupations",9510,9760
+"Military Specific Occupations",9800,9830

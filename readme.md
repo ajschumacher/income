@@ -59,18 +59,3 @@ bbbbbbb .N/A (less than 15 years old)
 1..4209995 .$1 to $4209995 (Rounded and top-coded
 .components)
 """
-
-
----
-
-Downloading data...
-
-```bash
-mkdir data
-cd data
-# Looks like you can get state files or this big US file...
-wget https://www2.census.gov/programs-surveys/acs/data/pums/2019/1-Year/csv_pus.zip
-unzip csv_pus.zip
-rm csv_pus.zip
-chmod a-x *
-```
