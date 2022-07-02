@@ -65,5 +65,5 @@ pyenv virtualenv 3.8.11 income
 pyenv local income
 pip install matplotlib jupyter pandas statsmodels
 pip freeze > requirements.txt
-jupyter
+jupyter notebook
 ```
